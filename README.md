@@ -13,6 +13,22 @@ FoodHub is an intelligent food delivery chatbot that allows users to browse menu
 
 ---
 
+## 📸 Screenshots
+
+### 💬 Chat Input
+![Chat Input](images/foodhub_chat_input.png)
+
+### 🤖 Chatbot Response
+![Chat Response](images/foodhub_chat_response.png)
+
+### 🧾 Order Confirmation
+![Order Confirmation](images/foodhub_order_confirmation.png)
+
+### 🗄️ Database Query
+![Database Query](images/foodhub_database_query.png)
+
+---
+
 ## 🛠️ Tech Stack
 - Python  
 - Pandas, NumPy  
