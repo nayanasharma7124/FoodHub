@@ -16,9 +16,9 @@ FoodHub is an intelligent food delivery chatbot that allows users to browse menu
 ## 🛠️ Tech Stack
 - Python  
 - Pandas, NumPy  
-- SQLite / SQL  
+- SQLite (via sqlite3 with SQL queries)  
 - LangChain (for chatbot workflow)  
-- OpenAI / LLM integration  
+- ChatGroq (LLM) integrated using LangChain 
 
 ---
 
